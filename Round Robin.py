@@ -63,6 +63,4 @@ def input_data():
 
 
 
-
-
 input_data()
